@@ -1,1 +1,1 @@
-git fetch origin
+git pull https://github.com/mohamedelfeky09/alx-zero_day.git
